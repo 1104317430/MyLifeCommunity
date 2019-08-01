@@ -1,0 +1,11 @@
+#Database of four King Kong
+spring:
+  datasource:
+    url: jdbc:mysql:///life
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: zhuhai321.
+
+#Mybatis configuration
+mybatis:
+  mapper-locations: classpath:mapper/*.xml

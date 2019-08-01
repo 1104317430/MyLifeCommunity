@@ -16,6 +16,6 @@ public class JumpController {
      */
     @GetMapping("/")
     public String index(){
-        return "index";
+        return "page/index";
     }
 }
