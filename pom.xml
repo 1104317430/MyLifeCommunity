@@ -18,7 +18,7 @@
   <properties>
     <fastjson>1.2.47</fastjson>
     <mybatis>1.1.1</mybatis>
-    <mysql>5.1.6</mysql>
+    <mysql>8.0.16</mysql>
   </properties>
 
   <dependencies>
