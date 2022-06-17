@@ -16,7 +16,7 @@
     <version>2.0.6.RELEASE</version>
   </parent>
   <properties>
-    <fastjson>1.2.47</fastjson>
+    <fastjson>1.2.83</fastjson>
     <mybatis>1.1.1</mybatis>
     <mysql>5.1.6</mysql>
   </properties>
